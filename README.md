@@ -50,7 +50,7 @@ python3 server.py
 
 ### 4. Acesse no navegador:
 ```bash
-http://127.0.0.1:6789/HelloWorld.html
+http://localhost:6789/HelloWorld.html
 ```
 
 
